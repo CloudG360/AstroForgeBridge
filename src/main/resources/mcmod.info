@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "AstroForgeBridge",
+    "name": "AstroForgeBridge",
+    "description": "Bridging the API gaps between Sponge",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Mooncraft",
+      "CloudGamer360"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
